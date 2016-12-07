@@ -9,7 +9,7 @@ The [iCalendar](http://tools.ietf.org/html/rfc5545) generator
 
 ## Install
 
-`npm install -S ics`
+`npm install -S darkbizarre/ics`
 
 ## Example Usage
 
